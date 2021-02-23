@@ -1,4 +1,4 @@
 {
-    "defaultusername": "sfdx-chan",
-    "defaultdevhubusername": "DevHub"
+  "defaultdevhubusername": "DevHub",
+  "defaultusername": "sfdx-chan"
 }
